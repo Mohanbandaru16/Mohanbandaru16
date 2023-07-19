@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Mohanbandaru16
-- 👀 I’m interested in ...datascience
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...data sciense & ml projects
 - 📫 How to reach me ...nagmohan93@gmail.com
